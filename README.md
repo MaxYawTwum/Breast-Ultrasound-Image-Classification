@@ -1,10 +1,10 @@
-Breast Ultrasound Image Classification is a very essential field that has gained interest of researchers. 
+Breast Ultrasound Image Classification is a very essential field that has gained the interest of researchers. 
 
 Recognizing crucial characteristics within ultrasound images associated with breast cancer is essential for potentially saving lives in the future.
 
 In this project, I utilized a Deep Learning model (CNN) to help identify the best strategies for deep learning-based BUS classification.
 
-**    SUMMARY OF THE MODEL
+  SUMMARY OF THE MODEL
     The Model is a convolutional neural network (CNN) architecture that has three convolutional layers.
 
     It takes input images with dimensions of 128x128 pixels.
